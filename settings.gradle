@@ -1,0 +1,3 @@
+rootProject.name='AnimationExtension'
+include ':app'
+include ':aniext'
